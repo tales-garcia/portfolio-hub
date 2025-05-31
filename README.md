@@ -38,12 +38,12 @@ O principal objetivo do PortfolioHUB é consolidar e apresentar meus trabalhos, 
 
 ## 📂 Estrutura do Projeto
 
-PortfolioHUB-SeuNome/
-├── index.html                  # Página principal do portfólio
-├── css/
-│   └── style.css               # Estilos CSS para o design da página
-└── js/
-    └── script.js               # Lógica JavaScript para interatividade
+PortfolioHUB-SeuNome/  
+├── index.html                  # Página principal do portfólio  
+├── css/  
+│   └── style.css               # Estilos CSS para o design da página  
+└── js/  
+    └── script.js               # Lógica JavaScript para interatividade  
 
 ---
 
