@@ -1,7 +1,7 @@
 # PortfolioHUB
 
 Este é o repositório oficial do meu **PortfolioHUB**, uma plataforma centralizada para exibir e gerenciar meus projetos e portfólios digitais.
-
+Pasta do Google Drive: https://drive.google.com/drive/u/2/folders/1zMhaBfFpOxK3Uu7VpIQ1cuP0OMdR5AOe
 ---
 
 ## 🚀 Objetivo do Projeto
